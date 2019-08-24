@@ -28,7 +28,7 @@ pom.xml.asc
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
+*.iml
 # Generated files
 .idea/**/contentModel.xml
 
