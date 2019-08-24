@@ -1,2 +1,2 @@
-# clj-log-taxonomy
+# log-taxonomy-clj
 Collection of log taxonomy algorithms in clojure.
